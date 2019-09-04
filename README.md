@@ -1,2 +1,0 @@
-# emc.github.io
-whiterpaper
